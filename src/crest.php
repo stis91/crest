@@ -61,6 +61,7 @@
 			);
 			return $result;
 		}
+		
 
 		/**
 		 * @var $arParams array
